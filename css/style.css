@@ -6,14 +6,23 @@
 
 body {
     background-color: rgb(140, 117, 117);
+    height: 100vh;
 }
 
 header { 
-    margin-top: 15px;
-    
+    margin: 15px 0 15px 0  
 }
 
 .borderra {
     border-radius: 10px;
     background-color: rgba(92, 72, 34, 0.437);
+    height: 10vh;
+}
+
+main section{
+    height: 80vh;
+}
+
+#footy {
+    height: 10vh;
 }
