@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+@font-face {
+    font-family: titule;
+    src: url(../assets/Fonts/winterbeauty-Script.otf);
+}
 
 body {
     background-color: rgb(140, 117, 117);
@@ -25,6 +29,15 @@ main section{
 
 .itm {
     justify-items: center;
+}
+
+#titulo {
+    font-family: titule;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 3em;
+    color: antiquewhite;
+
 }
 
 #carrou {
