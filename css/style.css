@@ -23,6 +23,15 @@ main section{
     height: 80vh;
 }
 
+.itm {
+    justify-items: center;
+}
+
+#carrou {
+    height: fit-content;
+    background-color: rgba(88, 52, 52, 0.274);
+}
+
 #footy {
     height: 10vh;
 }
