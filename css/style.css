@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(140, 117, 117);
+}
+
+header { 
+    margin-top: 15px;
+    
+}
+
+.borderra {
+    border-radius: 10px;
+    background-color: rgba(92, 72, 34, 0.437);
+}
